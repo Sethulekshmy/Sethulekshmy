@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Electronics and Communication Engineer aiming to excel in Embedded Systems.</h3>  
 
 <p align="right">
-  <img alt="coding" width="400" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" />
+  <img alt="coding" width="300" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" />
 </p>
 
 <p align="left">  
