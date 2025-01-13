@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm S S Sethulekshmy</h1>  
 <h3 align="center">A passionate Electronics and Communication Engineer aiming to excel in Embedded Systems.</h3>  
 
-<p align="right">
-  <img alt="coding" width="300" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" />
-</p>
 
-<p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=sethulekshmy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
-</p>  
 
 ---
 
@@ -50,9 +44,3 @@
 
 ---
 
-### 📊 **GitHub Stats**  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sethulekshmy&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sethulekshmy&show_icons=true&locale=en" alt="GitHub Stats" /></p>  
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethulekshmy&" alt="GitHub Streak" /></p>  
