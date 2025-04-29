@@ -1,28 +1,27 @@
 <h1 align="center">Hi 👋, I'm S S Sethulekshmy</h1>  
-<h3 align="center">A passionate Electronics and Communication Engineer aiming to excel in Embedded Systems.</h3>  
-
-
+<h3 align="center">Electronics and Communication Engineer passionate about Embedded Systems, Linux, and Low-level Programming.</h3>  
 
 ---
 
 ### 🌟 **About Me**  
-- 🌱 **Currently Learning**:  
-  - Advanced Embedded Systems, Microcontroller Architecture (ARM Cortex, AVR, PIC), and Low-Level Driver Development.  
-  - Communication Protocols: SPI, I2C, UART.  
-  - Debugging Techniques, Memory Management, and Power Optimization.  
-  - Embedded C/C++ Programming and Hardware-Software Integration.  
-  - Basics of Industrial Automation and IoT Frameworks.  
+- 🌱 **Currently Exploring**:  
+  - Embedded Systems with ESP32, ESP8266, STM32, PIC18F4580, and Arduino.  
+  - Linux System Programming, Shell Scripting, and Kernel Development.  
+  - QT Programming for GUI-based embedded applications.  
+  - Network Programming (Socket APIs, TCP/IP stack understanding).  
+  - Communication Protocols: UART, SPI, I2C, CAN.  
+  - Driver development, memory management, and real-time debugging.  
 
-- 💬 **Ask Me About**:  
-  - Microcontroller Programming (ARM Cortex, AVR, etc.).  
-  - Communication Protocols (UART, SPI, I2C, CAN).  
-  - Firmware Development and Electronics Design.  
+- 💬 **Let’s Talk About**:  
+  - Embedded C/C++, microcontroller interfacing, and firmware design.  
+  - Real-time systems and Linux kernel internals.  
+  - Inter-process communication and device drivers.  
 
-- 📫 **Reach Me At**:  
-  - Email: [sethulekshmy2002@gmail.com](mailto:sethulekshmy2002@gmail.com)  
+- 📫 **Connect With Me**:  
+  - 📧 Email: [sethulekshmy2002@gmail.com](mailto:sethulekshmy2002@gmail.com)
 
-- ⚡ **Fun Fact**:  
-  - I love solving complex problems and exploring new programming languages!  
+
+
 
 ---
 
